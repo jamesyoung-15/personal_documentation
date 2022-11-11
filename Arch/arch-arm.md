@@ -1,1 +1,0 @@
-# Installing Arch-ARM on Raspberry Pi
